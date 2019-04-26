@@ -1,5 +1,6 @@
 @import url("layout.css");
-@import url("modules.css");
+@import url("./modules/row.css");
+@import url("./modules/modules.css");
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
